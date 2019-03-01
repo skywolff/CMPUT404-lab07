@@ -1,0 +1,24 @@
+Question 1:
+Flask is simpler to setup than Django, it's minimalist. Django has an api for 
+a database and directory/url structure, admin panels etc.. 
+
+
+Question 2:
+REST stands to REpresentational State Transfer, when something is RESTful, it
+uses the REST api, i.e. GET, POST, PUT etc...
+
+Question 3:
+Create, Read, Update, Delete. PUT, GET, POST, DELETE.
+
+Question 4:
+1XX - informational response, 2XX - success,
+3XX - redirections, 4XX - client errors, 5XX - server errors
+
+Question 5:
+XSS attack - cross site scripting attack, a site is vulnerable when it does not 
+properly escape user input
+
+Question 6:
+Cross Site Resource Sharing. CORS needs to be implemented when the web
+application need to access web resources from another domain other than the web
+application's own.
